@@ -1,5 +1,5 @@
 # Your SQLi Essentials
-Routed SQLi Column Generator tool and Time base SQLi tool summed up into one :)
+Routed SQLi Columns Generator tool and Time base SQLi tool summed up into one :)
 
 **Enjoy!!
 
