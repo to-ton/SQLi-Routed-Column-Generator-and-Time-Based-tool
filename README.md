@@ -14,6 +14,6 @@ password: crackme
 
 2. Time base tool
 
-<img src="https://dan1337.altervista.org/images/3.JPG">
+<img src="https://dan1337.altervista.org/images/.JPG">
 
 
