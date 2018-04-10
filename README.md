@@ -9,7 +9,7 @@ password: crackme
 **pretty understandable :)**
 
 1. Routed columns generator
-<br>//to copy the generated columns, just double tap the textbox and copy it into scracth ;) !
+<br>//to copy the generated columns, just double tap the textbox and copy it into scratch ;) !
 <img src="https://dan1337.altervista.org/images/2.JPG">
 
 2. Time base tool
