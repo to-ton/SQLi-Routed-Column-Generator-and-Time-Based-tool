@@ -1,3 +1,5 @@
+*Warning: This was an old program probably when i was still in highschool.. this has been not supported and may not work properly nowadays :))
+
 # Your SQLi Essentials
 Routed SQLi Columns Generator tool and Time base SQLi tool summed up into one :)
 
