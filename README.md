@@ -1,7 +1,7 @@
 **This is a highschool program for fun, some parts may no longer work.
 
 # Your SQLi Essentials
-Routed SQLi Columns Generator tool and Time base SQLi tool summed up into one :)
+Routed SQLi Columns Generator tool and Time based SQLi tool summed up into one :)
 
 **Enjoy!!
 
