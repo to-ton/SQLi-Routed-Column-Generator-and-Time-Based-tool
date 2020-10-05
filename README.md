@@ -20,7 +20,7 @@ password: crackme
 
 ##  API
 
-<img src="https://danicfonte.cf/imgs/11-1.jpg" width="800px" height="500px">
+<img src="https://danicfonte.cf/imgs/11-1.jpg" width="900px" height="500px">
 <img src="https://danicfonte.cf/imgs/Capture1.jpg" width="5800px" height="500px">
 
 
