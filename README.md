@@ -11,10 +11,10 @@ password: crackme
 **pretty understandable :)**
 
 1. Routed columns generator
-<br>//to copy the generated columns, just double tap the textbox and copy it into scratch ;) !
+<br>//Custom text editor available: just double click the generated output and a custom text editor should popup, copy it in and save ;) !
 <img src="https://danicfonte.cf/imgs/2.jpeg">
 
-2. Time base tool
+2. Time based tool
 /*this aren't working yet :/
 <img src="https://danicfonte.cf/imgs/3.jpeg">
 
