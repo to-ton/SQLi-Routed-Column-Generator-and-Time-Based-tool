@@ -7,7 +7,7 @@ Routed SQLi Columns Generator tool and Time based SQLi tool summed up into one :
 
 password: crackme
 
-##  Easy UI
+##  ##Easy UI
 **pretty understandable :)**
 
 1. Routed columns generator
@@ -18,8 +18,9 @@ password: crackme
 /*this aren't working yet :/
 <img src="https://danicfonte.cf/imgs/3.jpeg">
 
-##  API
+##  ##API
 
+not available.
 <img src="https://danicfonte.cf/imgs/11-1.jpg" width="800px" height="500px">
 <img src="https://danicfonte.cf/imgs/Capture1.jpg" width="800px" height="500px">
 
