@@ -6,10 +6,6 @@ Routed SQLi Columns Generator tool and Time base SQLi tool summed up into one :)
 **Enjoy!!
 
 password: crackme
-##  API
-
-<img src="https://danicfonte.cf/imgs/11-1.jpg">
-<img src="https://danicfonte.cf/imgs/Capture1.jpg">
 
 ##  Easy UI
 **pretty understandable :)**
@@ -20,7 +16,11 @@ password: crackme
 
 2. Time base tool
 /*this aren't working yet :/
-
 <img src="https://danicfonte.cf/imgs/3.jpeg">
+
+##  API
+
+<img src="https://danicfonte.cf/imgs/11-1.jpg" width="500px" height="500px">
+<img src="https://danicfonte.cf/imgs/Capture1.jpg" width="500px" height="500px">
 
 
