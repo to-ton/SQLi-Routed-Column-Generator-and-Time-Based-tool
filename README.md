@@ -1,4 +1,4 @@
-<pre>❗❗❗This is a little program I made in highschool to speed up my hacks.. This is deprecated tho \_o_/ don't use it.❗❗❗
+<pre>❗❗❗This is a little program I made way back in highschool to speed up my hacks.. This is deprecated tho \_o_/ don't use it.❗❗❗
 keeping it for sweet memories📖..</pre>
 
 # Your SQLi Essentials
