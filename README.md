@@ -1,4 +1,5 @@
-**This is a highschool program for fun, some parts may no longer work.**
+This is a little program I made in highschool to speed up my hacks.. This is deprecated tho \_o_/ don't use it.
+keeping it for memories..
 
 # Your SQLi Essentials
 Routed SQLi Columns Generator tool and Time based SQLi tool summed up into one :)
